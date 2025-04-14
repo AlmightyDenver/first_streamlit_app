@@ -2,7 +2,7 @@
 
 # 🚀 First Streamlit App
 
-> Streamlit을 활용하여 간단한 웹 애플리케이션을 구축하는 첫 번째 프로젝트입니다.
+> Snowflake, Streamlit을 활용하여 간단한 웹 애플리케이션을 구축하는 첫 번째 프로젝트입니다.
 
 <br>
 <br>
